@@ -1,0 +1,33 @@
+.botones .click{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif' ;
+}
+.uno{
+    background-color: black;
+    color: white;
+}
+
+.dos{
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+/* .botones .click, .botones .noclick{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.botones .click{
+    background-color: black;
+    color: white;
+}
+
+.botones .noclick{
+    background-color: yellow;
+} */
+
